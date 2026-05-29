@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.emrecanaslan.com/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://www.emrecanaslan.com/emre-can-aslan-electrical-engineer-phd.jpeg</image:loc>
+      <image:title>Emre Can Aslan — PhD Researcher in Electrical Engineering, Professional Portrait</image:title>
+      <image:caption>Emre Can Aslan, PhD researcher in Electrical Engineering at UFRJ Rio de Janeiro, photographed in a professional navy blue suit portrait.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.emrecanaslan.com/emre-can-aslan-academic-presentation.jpeg</image:loc>
+      <image:title>Emre Can Aslan at Academic Event — Electrical Engineer and PhD Researcher</image:title>
+      <image:caption>Emre Can Aslan attending an academic conference or presentation event, wearing a formal navy suit and tie, representing UFRJ research.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.emrecanaslan.com/emre-can-aslan-research-lab-ufrj.jpeg</image:loc>
+      <image:title>Emre Can Aslan in Research Lab at UFRJ — Computer Vision PhD Researcher</image:title>
+      <image:caption>Emre Can Aslan photographed in his research laboratory at the Federal University of Rio de Janeiro (UFRJ), with a whiteboard showing equations related to his Human Pose Estimation research.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.emrecanaslan.com/emre-can-aslan-futevolei-rio.jpeg</image:loc>
+      <image:title>Emre Can Aslan Playing Futevôlei in Rio de Janeiro, Brazil</image:title>
+      <image:caption>Emre Can Aslan enjoying futevôlei, the iconic Brazilian beach sport combining football and volleyball, on the beaches of Rio de Janeiro during his PhD studies at UFRJ.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.emrecanaslan.com/emre-can-aslan-portrait-phd.jpeg</image:loc>
+      <image:title>Emre Can Aslan PhD Portrait — Outdoor Waterfront Photo</image:title>
+      <image:caption>Emre Can Aslan in an outdoor portrait near a waterfront, photographed during his doctoral research period as a PhD candidate in Electrical Engineering.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.emrecanaslan.com/emre-can-aslan-researcher-rowan-university.jpeg</image:loc>
+      <image:title>Emre Can Aslan as Visiting Researcher at Rowan University, New Jersey, USA</image:title>
+      <image:caption>Emre Can Aslan photographed as a visiting researcher at Rowan University in New Jersey, USA, wearing formal academic attire during his international research collaboration.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.emrecanaslan.com/emre-can-aslan-rio-de-janeiro-brazil.jpeg</image:loc>
+      <image:title>Emre Can Aslan in Rio de Janeiro, Brazil — PhD Student at UFRJ</image:title>
+      <image:caption>Emre Can Aslan enjoying life in Rio de Janeiro, Brazil, where he conducts his doctoral research in Human Pose Estimation and Computer Vision at UFRJ.</image:caption>
+    </image:image>
+
+  </url>
+</urlset>
