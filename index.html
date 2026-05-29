@@ -458,6 +458,17 @@
       gap: 28px;
     }
 
+    /* Center orphaned cards in last row when count isn't divisible by 3 */
+    .research-card:nth-child(3n+1):last-child {
+      grid-column: 2;
+    }
+    .research-card:nth-last-child(2):nth-child(3n+1) {
+      grid-column: 1;
+    }
+    .research-card:nth-last-child(1):nth-child(3n+2) {
+      grid-column: 3;
+    }
+
     .research-card {
       background: var(--card-bg);
       border: 1px solid rgba(201,168,76,0.15);
@@ -885,6 +896,39 @@
             <span class="tag">Motion Capture</span>
             <span class="tag">Activity Recognition</span>
             <span class="tag">Biomechanics</span>
+          </div>
+        </article>
+
+        <article class="research-card reveal delay-3">
+          <div class="card-icon">&#9729;&#65039;</div>
+          <h3 class="card-title">Cloud Computing</h3>
+          <p class="card-body">
+            Designing and deploying scalable AI workloads on cloud infrastructure, leveraging
+            distributed computing to accelerate deep learning training and inference pipelines.
+            Research covers resource optimization, containerization, and cloud-native architectures
+            for compute-intensive vision tasks.
+          </p>
+          <div class="card-tags">
+            <span class="tag">AWS / GCP</span>
+            <span class="tag">Distributed Training</span>
+            <span class="tag">MLOps</span>
+          </div>
+        </article>
+
+        <article class="research-card reveal delay-4">
+          <div class="card-icon">&#129302;</div>
+          <h3 class="card-title">Chatbot Development with RAG</h3>
+          <p class="card-body">
+            Building intelligent conversational agents powered by Retrieval-Augmented Generation (RAG),
+            combining large language models with dynamic knowledge bases for accurate, context-aware
+            responses. Research focuses on domain-specific RAG pipelines, vector search, and
+            real-time document retrieval for academic and industrial applications.
+          </p>
+          <div class="card-tags">
+            <span class="tag">RAG</span>
+            <span class="tag">LLM</span>
+            <span class="tag">Vector Search</span>
+            <span class="tag">NLP</span>
           </div>
         </article>
 
